@@ -4,16 +4,6 @@
 A simple REST API built with **Node.js + Express** to manage a list of books.  
 Data is stored in-memory (no database).
 
-## 🚀 Run the Project
-```bash
-# Initialize project
-npm init -y
-
-# Install dependencies
-npm install express
-
-# Start server
-node server.js
 
 ## Screenshots of POSTMAN:-
 <img width="1229" height="604" alt="DELETE Request" src="https://github.com/user-attachments/assets/fa310884-a20b-4387-b928-ac838586e6db" />
