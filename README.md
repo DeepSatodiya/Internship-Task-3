@@ -15,6 +15,7 @@ npm install express
 # Start server
 node server.js
 
+## Screenshots of POSTMAN:-
 <img width="1229" height="604" alt="DELETE Request" src="https://github.com/user-attachments/assets/fa310884-a20b-4387-b928-ac838586e6db" />
 <img width="1179" height="825" alt="GET Request" src="https://github.com/user-attachments/assets/1d1de321-dece-4eb2-bea6-930b978ab939" />
 <img width="1173" height="482" alt="POST Request" src="https://github.com/user-attachments/assets/b9cee966-4fd5-4f94-87b2-04a64b841409" />
